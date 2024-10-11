@@ -11,7 +11,7 @@ Pour exécuter le site Listogo en local, suivez ces étapes :
 
 1. Clonez le dépôt :
    
-   git clone https://github.com/votre-nom-utilisateur/listogo.git
+   git clone https://github.com/mustapha-moutaki/starter-listogo-v1.0.1.git
 
 Utilisation====
 
