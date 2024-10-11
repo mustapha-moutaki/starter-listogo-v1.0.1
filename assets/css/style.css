@@ -42,7 +42,7 @@ font-family: 'Roboto', sans-serif;
 body{
 	font-family: 'Poppins', sans-serif;
 	font-size:14px;
-	color:#a09e9c;
+	color:#000000;
     text-transform:initial;
     max-width:1920px;
     margin:0 auto;
@@ -140,12 +140,12 @@ html,body{height: 100%;}
 .select-opt select {
     border: none;
     cursor:pointer;
-    color:#a7b0ba;
+    color:#000000;
     font-size: 12px;
     font-weight: 300;
 }
 .select-opt option{
-    color:#a7b0ba;
+    color:#000000;
     text-transform: uppercase;
 }
 .select-opt a span.lnr-magnifier:before {
@@ -159,7 +159,7 @@ html,body{height: 100%;}
 /*.select-opt*/
 
 .header-top-right ul li a{
-    color:#a7b0ba;
+    color:#000000;
     font-size: 12px;
     font-weight: 300;
 }
@@ -190,7 +190,7 @@ nav.navbar.bootsnav {
 
 /*.nav li*/
 nav.navbar.bootsnav ul.nav > li > a {
-    color: #859098;
+    color: #000000;
     font-size: 14px;
     font-weight: 500;
     text-transform:uppercase;
@@ -302,7 +302,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 }
 .single-welcome-hero-form input[type="text"]{
     font-size: 14px;
-    color: #859098;
+    color: #000000;
     text-transform: capitalize;
     font-weight: 500;
 }
@@ -853,7 +853,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 .footer-menu ul.footer-menu-item{text-align: right;}
 .footer-menu ul.footer-menu-item li{display: inline-block;}
 .footer-menu ul.footer-menu-item li a {
-    color: #859098;
+    color: #000000;
     font-size: 14px;
     text-transform: uppercase;
     padding-left: 40px;
@@ -868,7 +868,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     border-top: 1px solid #e1e5eb;
 }
 .hm-footer-copyright p,.hm-footer-copyright p a {
-    color: #a5adb3;
+    color: #000000;
     font-size: 14px;
     font-weight: 400;
     text-transform: capitalize;
@@ -880,7 +880,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 }
 .footer-social a ,.footer-social span {
     display: inline-block;
-    color: #afb4bf;
+    color: #000000;
     font-size: 14px;
     margin-left: 15px;
     -webkit-transition: .3s; 
@@ -893,11 +893,11 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     width: 35px;
     height: 35px;
     line-height: 35px;
-    background: #eef2f6;
+    background: #65b0ea;
     text-align: center;
     border-radius: 50%;
 }
-.footer-social span {margin-right:15px;margin-left: 0;color: #a5adb3;}
+.footer-social span {margin-right:15px;margin-left: 0;color: #1f262b;}
 .footer-social span:hover{color: #ff545a;}
 .footer-social a:hover {background:#ff545a;color: #fff;}
 
