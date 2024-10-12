@@ -2,8 +2,6 @@
 
 Listogo est un site web dynamique conçu pour être simple et facile à utiliser. Il offre aux utilisateurs une expérience intuitive et fluide pour découvrir et lister divers sujets ou produits.
 
-## Table des matières
-
 
 ## Installation
 
